@@ -3403,21 +3403,21 @@ a:hover {
 }
 
 .section.is-hero_bg {
-  background-image: url("../images/6646316e1a3457e2787ff4a2_hero.jpg");
+  background-image: url("../images/6646316e1a3457e2787ff4a2_hero.gif");
   background-position: 50% 100%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .section.is-about-bg {
-  background-image: url("../images/6646316e1a3457e2787ff490_about%20bg.svg");
+  background-image: url("../images/6646316e1a3457e2787ff4a3_frbg.gif");
   background-position: -24vh;
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 .section.is-friendly-bg {
-  background-image: url("../images/6672d1e63a3925cdbf15f25a_Mock-up_VENKO.webp"), url("../images/6646316e1a3457e2787ff498_Vector.svg"), linear-gradient(180deg, #0000 66%, var(--black) 80%), url("../images/6646316e1a3457e2787ff4a3_frbg.jpg");
+  background-image: url("../images/CannaVerse.gif"), url("../images/6646316e1a3457e2787ff498_Vector.svg"), linear-gradient(180deg, #0000 66%, var(--black) 80%), url("../images/6646316e1a3457e2787ff4a3_frbg.gif");
   background-position: 50% 260px, 100% 88%, 0 0, 40% 75%;
   background-repeat: no-repeat, no-repeat, repeat, no-repeat;
   background-size: auto, 598px, auto, 120%;
@@ -4168,7 +4168,7 @@ a:hover {
 
 .diamond-anim {
   z-index: 1;
-  background-image: url("../images/6646316e1a3457e2787ff4b4_fresh-ezgif.com-optimize.gif");
+  background-image: url("../images/6646316e1a3457e2787ff4b6_llamaear-ezgif.com-optimiz.gif");
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: contain;
@@ -4210,7 +4210,7 @@ a:hover {
 }
 
 .lama-anim {
-  background-image: url("../images/6646316e1a3457e2787ff4b6_llamaear-ezgif.com-optimize.gif");
+  background-image: url("../images/6646316e1a3457e2787ff4ac_second.gif");
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: contain;
@@ -4924,7 +4924,7 @@ a:hover {
   }
 
   .section.is-friendly-bg {
-    background-image: url("../images/6672d1e63a3925cdbf15f25a_Mock-up_VENKO.webp"), linear-gradient(180deg, #0000 66%, var(--black) 80%), url("../images/6646316e1a3457e2787ff4a3_frbg.jpg");
+    background-image: url("../images/CannaVerse.gif"), linear-gradient(180deg, #0000 66%, var(--black) 80%), url("../images/6646316e1a3457e2787ff4a3_frbg.gif");
     background-position: 50%, 0 0, 50% 70%;
     background-repeat: no-repeat, repeat, no-repeat;
     background-size: 920px, auto, 1120px;
@@ -5678,7 +5678,7 @@ a:hover {
   }
 
   .section.is-friendly-bg {
-    background-image: url("../images/6672d1e63a3925cdbf15f25a_Mock-up_VENKO.webp"), url("../images/6646316e1a3457e2787ff4a3_frbg.jpg"), linear-gradient(180deg, #0000 66%, var(--black) 80%);
+    background-image: url("../images/CannaVerse.gif"), url("../images/6646316e1a3457e2787ff4a3_frbg.gif"), linear-gradient(180deg, #0000 66%, var(--black) 80%);
     background-position: 50% 55%, 50% 1120px, 0 0;
     background-repeat: no-repeat, no-repeat, repeat;
     background-size: 720px, 920px, auto;
@@ -6111,7 +6111,7 @@ a:hover {
   }
 
   .section.is-friendly-bg {
-    background-image: url("../images/6672d1e63a3925cdbf15f25a_Mock-up_VENKO.webp"), linear-gradient(180deg, #0000 89%, var(--black)), url("../images/6646316e1a3457e2787ff4a3_frbg.jpg");
+    background-image: url("../images/CannaVerse.gif"), linear-gradient(180deg, #0000 89%, var(--black)), url("../images/6646316e1a3457e2787ff4a3_frbg.gif");
     background-position: 50% 60%, 0 0, 50% 85%;
     background-repeat: no-repeat, repeat, no-repeat;
     background-size: 460px, auto, 180%;
